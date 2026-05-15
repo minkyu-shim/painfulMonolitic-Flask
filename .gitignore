@@ -2,3 +2,5 @@ PLAN.md
 
 *.db
 *.db-journal
+
+.idea/
